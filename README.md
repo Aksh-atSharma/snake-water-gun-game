@@ -1,9 +1,21 @@
-# snake-water-gun-game
+# Snake Water Gun Game
 
-A simple Snake-Water-Gun game built using Python.
+A simple Python implementation of the Snake-Water-Gun game.
 
 ## Features
-- Input validation
+- User input validation
 - Random computer choice
 - Win/Lose/Draw logic
 - Exit option
+
+## How to Run
+
+```bash
+python snake_water_gun.py
+```
+
+## Concepts Used
+- Python dictionaries
+- Loops
+- Conditional statements
+- Random module
